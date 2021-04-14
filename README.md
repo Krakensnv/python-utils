@@ -1,3 +1,3 @@
-# Python utils
+# Python utilities
 
 First change
